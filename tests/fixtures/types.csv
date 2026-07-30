@@ -1,0 +1,5 @@
+numeric,mixed,nonfinite,sci,all_missing,striptext
+1,1,1,1e5,, a
+2.5,x,nan,2,,a 
+,2,2,,, a 
+3,,,,,
